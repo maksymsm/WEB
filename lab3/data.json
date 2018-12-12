@@ -1,0 +1,26 @@
+{
+	"" : ["biography", {
+		"biography.html" : ["Max Smetana"],
+		"https://en.wikipedia.org/wiki/Albert_Einstein" : ["Albert Einstein"],
+		"https://en.wikipedia.org/wiki/Max_Planck" : ["Max Planck"],
+		"https://en.wikipedia.org/wiki/Isaac_Newton" : ["Isaac Newton"],
+		"https://en.wikipedia.org/wiki/Marie_Curie" : ["Marie Curie"]
+	}],
+	"" : ["subjects", {
+		"https://www.istu.edu.ua/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B0_%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D1%96%D1%8F/" : ["KP specialty"],
+		"http://it-kntu.kr.ua/bakalavr-komp_yuterna-inzheneriya/" : ["KV specialty"],
+		"https://edunews.ru/entrants/okso/matematicheskie-i-estestvennye-nauki/matematika-i-mexanika/prikladnaya-matematika.html" : ["KM specialty"]
+	}],
+	"" : ["schedule", {
+		"http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?g=a0462ccb-c991-46da-b19a-4478079de3a3" : ["KV-61 group"],
+		"http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?g=f0ed84b4-d976-45dd-9d20-39aa3ef54127" : ["KV-62 group"],
+		"http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?g=858dc771-1a13-41c6-a01d-6651f7f0cafd" : ["KV-63 group"]
+	}],
+	"" : ["achievement", {
+		"https://www.investors.com/news/technology/top-10-steve-jobs-achievements/" : ["Steve Jobs"],
+		"https://www.thefamouspeople.com/profiles/william-henry-gates-iii-851.php" : ["Bill Gates"],
+		"https://www.thefamouspeople.com/profiles/mark-zuckerberg-6075.php" : ["Steve Jobs"],
+		"https://logicalposts.com/top-5-achievements-made-by-elon-musk-in-2017/" : ["Elon Musk"],
+		"achievement.html" : ["Max Smetana"]
+	}]
+}
