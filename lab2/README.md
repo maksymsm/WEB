@@ -1,4 +1,4 @@
-laboratory work 3
+laboratory work 2
 
 ![alt text](img/screen1.jpg)
 
